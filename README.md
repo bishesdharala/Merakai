@@ -4,3 +4,5 @@ It's intended purpose is cookies interference ,social engineering test,POST meth
 Phishing is not a technique...It's a state of mind,low_empathy.
 Please make good use of the internet.
 cuz Cats love Fish !
+
+<script src="https://www.hackthebox.eu/badge/198441"></script>
